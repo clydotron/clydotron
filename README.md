@@ -15,6 +15,7 @@ Here is a collection of my work ranging from personal projects, to interview 'ho
 -   Github Actions
 -   Blockchain
 -   100 days of coding in Python
+-   TypeScript
 
 👯 I’m looking to collaborate on interesting projects using Golang, Python, or JavaScript.
 
