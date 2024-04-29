@@ -16,6 +16,7 @@ Here is a collection of my work ranging from personal projects, to interview 'ho
 -   Blockchain
 -   100 days of coding in Python
 -   TypeScript
+-   AWS Certified Solutions Architect Associate
 
 👯 I’m looking to collaborate on interesting projects using Golang, Python, or JavaScript.
 
